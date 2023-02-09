@@ -60,7 +60,7 @@ displayEntries();
 
 Form.addEventListener("submit", saveForm);
 displayEntries();
-localStorage.clear();
+//localStorage.clear();
 
 
 //To check if the age is between 18 and 55.
